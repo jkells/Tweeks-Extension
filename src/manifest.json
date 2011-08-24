@@ -1,0 +1,18 @@
+{
+  "name": "Tweek's Extension",
+  "version": "0.1",
+  "description": "Delete History On Exit..",
+  "browser_action": {
+    "default_icon": "img/icon.jpeg",
+    "default_title": "Tweek's Extension"
+  },
+
+  "icons": {
+    "128": "img/icon.jpeg"
+  },
+  "background_page": "background.html",
+  "permissions": [
+		"history",
+		"tabs"
+	]
+}
