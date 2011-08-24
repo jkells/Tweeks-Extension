@@ -1,5 +1,5 @@
-.pem
-.crx
+*.pem
+*.crx
 .idea
 .private/
 build
