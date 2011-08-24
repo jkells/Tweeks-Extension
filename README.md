@@ -1,10 +1,10 @@
-## Gak's Extension ##
+## Tweek's Extension ##
 
 ### Overview ###
-Just adds a mute link to the top of each post in G+ so you don't need to dig through the menus.
+Delete Chrome history when you close the window, so Tweek can look up naughty stuff.
 
 ### Download ###
-[DOWNLOAD HERE](http://www.kared.net/gak_extension.crx)
+[DOWNLOAD HERE](http://www.kared.net/tweeks_extension_0.1.crx)
 
 ### License ###
 MIT
